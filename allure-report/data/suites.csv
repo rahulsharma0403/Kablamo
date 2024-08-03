@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 02 20:42:08 EDT 2024","Fri Aug 02 20:42:09 EDT 2024","340","","src\tests\Kabalom.test.ts","Forex API Tests","","","should handle invalid currency pairs gracefully",""
+"passed","Fri Aug 02 20:42:09 EDT 2024","Fri Aug 02 20:42:09 EDT 2024","335","","src\tests\Kabalom.test.ts","Forex API Tests","","","should handle HTTP 404 Not Found response",""
+"passed","Fri Aug 02 20:42:08 EDT 2024","Fri Aug 02 20:42:08 EDT 2024","606","","src\tests\Kabalom.test.ts","Forex API Tests","","","should fetch the most recent exchange rates for CAD to AUD",""
+"passed","Fri Aug 02 20:42:09 EDT 2024","Fri Aug 02 20:42:10 EDT 2024","359","","src\tests\Kabalom.test.ts","Forex API Tests","","","should handle HTTP 500 Internal Server Error response",""
+"passed","Fri Aug 02 20:42:09 EDT 2024","Fri Aug 02 20:42:09 EDT 2024","479","","src\tests\Kabalom.test.ts","Forex API Tests","","","should handle invalid query parameters gracefully",""
+"passed","Fri Aug 02 20:42:10 EDT 2024","Fri Aug 02 20:42:10 EDT 2024","238","","src\tests\Kabalom.test.ts","Forex API Tests","","","should handle HTTP 400 Bad Request response",""
