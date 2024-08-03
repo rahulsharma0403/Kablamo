@@ -1,5 +1,6 @@
 # Kablamo
 
+Step 1: Install node.js from https://nodejs.org/en/download/prebuilt-installer and install the same.
 Step 1: Run the command in the visual studio termianl npx install playwright@latest
 Step 2: Install JAVA on local system and setup environment variable (for Allure Reporting)
 Step 3: Restart the system if environment variable (java) was not setup
