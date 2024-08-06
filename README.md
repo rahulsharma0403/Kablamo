@@ -11,3 +11,4 @@ Step 6: To OPEN the Allure report, go to Terminal and write: npm run report
 Step 7: To OPEN the default HTML report, locate the project folder on the local device and open the playwright-report folder. 
 
 Note: All the data extracted through API requests is stored in a CSV file and can be located inside /src/report folder. This report will contain the average Forex Conversion rate.
+      Also I have printed the average forex rate in the console logs as well.
