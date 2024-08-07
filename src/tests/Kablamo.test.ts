@@ -38,6 +38,7 @@ test.describe('Forex API Tests', () => {
                 await generateCSVReport(reportData, average, base, target)
 
                 // Positive assertions
+                expect(response.status()).toBe(200); 
                 expect(data).toBeDefined();
                 expect(data).toHaveProperty('observations');
                 expect(data.observations).toBeInstanceOf(Array);
